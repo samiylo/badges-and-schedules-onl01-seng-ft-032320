@@ -1,7 +1,5 @@
 # Write your code here.
 
-names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-
 def badge_maker(name)
   
     "Hello, my name is #{name}."
@@ -25,9 +23,7 @@ def assign_rooms(speakers)
 end
 
 def printer(speakers)
-  array.each do |n|
-    puts n
-  end
+  
 end
   
   
