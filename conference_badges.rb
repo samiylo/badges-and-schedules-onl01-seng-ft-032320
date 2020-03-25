@@ -1,5 +1,7 @@
 # Write your code here.
 
+names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
 def badge_maker(name)
   
     "Hello, my name is #{name}."
@@ -22,7 +24,9 @@ def assign_rooms(speakers)
   rooms_array
 end
 
-def printer
+def printer(speakers)
+  
+  
   
   
   
